@@ -1,0 +1,14 @@
+.product-name p{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Jost';
+    font-weight: 300;
+    text-decoration: none;
+    color: black;
+}
+
+.product-price p{
+    font-size: 18px;
+    color: #8c907e;
+    font-family: 'Jost';
+}

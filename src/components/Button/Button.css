@@ -1,0 +1,18 @@
+.but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.but1 button{
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: 'Jost';
+    padding: 12px 18px;
+    background-color: #484848;
+    color: white;
+}
+
